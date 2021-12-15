@@ -1,2 +1,3 @@
 # multiplayer-2d-soccer-game-analog
-Configurable 2D Soccer Game Using FPGA Board and Computer Keyboard
+
+## Project Description: [ECE385 Final Project_ Game.docx](https://github.com/FlexEasy/multiplayer-2d-soccer-game-analog/files/7720611/ECE385.Final.Project_.Game.docx)
